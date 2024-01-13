@@ -1,16 +1,13 @@
 # scribbl
 
-A new Flutter project.
+Scrib
 
 ## Getting Started
+![WhatsApp Image 2024-01-13 at 13 36 09](https://github.com/agryashu23/Scribbl/assets/60836876/c0f493b5-eb4c-4dc9-b505-912ac6402b4f)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2024-01-13 at 13 36 10](https://github.com/agryashu23/Scribbl/assets/60836876/f0db5be7-c866-43f9-a9b2-931b78f7080e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
